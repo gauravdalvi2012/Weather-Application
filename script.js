@@ -90,5 +90,3 @@ document.querySelector(".search-bar").addEventListener("keyup", function (event)
 });
 
 weather.fetchWeather("Pune", history);
-
-// document.body.style.backgroundImage = "url('https://source.unsplash.com/1600x900/?" + "mumbai" +"')";

@@ -7,4 +7,7 @@ Its a web - application that recieve and display weather information of your loc
 
 ## Tech Used 
 
-HTML, CSS, Javascript, 
+HTML, CSS, Javascript.
+
+
+
